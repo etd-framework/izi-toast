@@ -1,0 +1,12 @@
+{
+  "name": "etdsolutions/iziToast",
+  "description": "Shim repository for iziToast",
+  "homepage": "https://github.com/chmln/iziToast",
+  "license": "Apache License",
+  "authors": [
+    {
+      "name": "Marcelo Dolce",
+      "email": "dolcemarcelo@gmail.com"
+    }
+  ]
+}
